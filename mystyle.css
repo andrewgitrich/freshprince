@@ -1,0 +1,19 @@
+h1{
+	color:red;
+	text-align: center;
+	font-size: 85px;
+}
+
+body{
+	background-color: white;
+
+}
+p{
+	text-align: center;
+	font-size: 45px;
+}
+
+.hot{
+	font-size: 25px;
+	color: blue;
+}
